@@ -2,6 +2,7 @@
 int main()
 {
     printf("hello user:\n");
+    printf("hello sir ");
     printf(" enter your marks all subjects\n");
     float percentage, marks;
     scanf("%f", &marks);
