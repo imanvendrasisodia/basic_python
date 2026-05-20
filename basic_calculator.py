@@ -1,4 +1,4 @@
-num1 = int(input("enter first number: "))
+num1 = float(input("enter first number: "))
 num2 = int (input("enter second number: "))
 print("the sum of two number is: ", num1 + num2)
 print("the difference of two number is: ", num1 - num2)
