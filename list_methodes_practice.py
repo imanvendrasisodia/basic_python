@@ -1,4 +1,4 @@
-# list methode are built -in function  used  to modify and manage list data..
+# list methode are built -in function  used  to modify and manage list data..  it is muttable (changes possible in original list)
 
 a = [1,5,8,3,4,6,875]
 print(a.sort(),a)  #ascending order
@@ -13,9 +13,9 @@ print(a.count(8))  #counting
 print(a.index(8))  #position batana
 a.reverse()   #ulta karta
 print(a)
-a.copy()   # duplicate list
-print(a)
-a.clear   #empty list
+b = a.copy()   # duplicate list
+print(b)
+a.clear ()   #empty list
 print(a)
 
 print(type(a)) #type batata he..
