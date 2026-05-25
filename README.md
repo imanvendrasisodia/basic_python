@@ -12,6 +12,8 @@ This repository contains beginner Python practice programs and mini projects.
 - Marks Percentage Calculator
 - Sets Methods and Functions
 - Tuple Methods and Useful Functions
+- Create Basic Login System
+- Using Condition Expression to create a Calculator
 
 ## Language Used
 - Python
