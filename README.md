@@ -17,4 +17,4 @@ This repository contains beginner Python practice programs and mini projects.
 - Python
 
 ## Author
-- Ansh
+- Manvendra Sisodia
